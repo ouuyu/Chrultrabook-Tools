@@ -16,7 +16,7 @@
       "icons/icon.ico"
     ]
   },
-  "productName": "chrultrabook-tools",
+  "productName": "ChromeBook Tools",
   "version": "3.0.0",
   "identifier": "com.chrultrabook.org",
   "plugins": {},
@@ -26,7 +26,7 @@
     },
     "windows": [
       {
-        "title": "Chrultrabook Tools",
+        "title": "ChromeBook Tools",
         "width": 390,
         "height": 480,
         "maximizable": false,
